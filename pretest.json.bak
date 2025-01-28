@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Gauss Seidel method is _______________________",
+        "qid": 1,
+        "option_a": "Iterative method",
+        "option_b": "Direct method",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "The partial pivoting _______________________",
+        "qid": 2,
+        "option_a": "will not effect the number of iterations to achieve the desired accuracy",
+        "option_b": "always reduces the number of iterations to achieve the desired accuracy",
+        "option_c": "may reduce the number of iterations to reach the desired accuracy",
+        "option_d": "partial pivoting is not requred",
+        "correct_option": "c"
+    },
+    {
+        "question": "In Gauss Seidel method _______________________",
+        "qid": 3,
+        "option_a": "always older iteration values are used",
+        "option_b": "always latest iteration values are used",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "b"
+    }
+]
